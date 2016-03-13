@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">AndroidAutoMessaging</string>
+
+    <string name="notification_reply">Reply by Voice</string>
+    <string name="send_2_conversations">Send 2 conversations with 1 message</string>
+    <string name="send_1_conversation">Send 1 conversation with 1 message</string>
+    <string name="send_1_conv_3_messages">Send 1 conversation with 3 messages</string>
+    <string name="clear_log">Clear Log</string>
+    <string name="no_messages_to_display">No Messages to Display</string>
+</resources>
